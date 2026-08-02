@@ -6,6 +6,8 @@ A search through the public record for the one thing every trading source leaves
 
 The editorial position is this: trading books teach you what to buy, when to buy it, and where to place your stop. The one thing consistently absent, across hundreds of sources and thousands of pages, is the reason any of it should work. Not the pattern. Not the setup. The mechanism underneath: a repeatable, positive-expectancy decision, a source of persistence that keeps it alive, and someone on the other side of every fill who keeps accepting a worse price because something in the structure of the market compels them to. That mechanism is the edge. This book is organized around finding it.
 
+[Video overview of the project](https://www.youtube.com/watch?v=B4xxF4OWH9M)
+
 ## Where the material comes from
 
 Nothing in this book comes from me.
