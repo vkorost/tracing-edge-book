@@ -94,11 +94,16 @@ Evidence quality is noted for every case: backtested, tested out of sample, live
 
 Chapters are self-contained within their part. [`GLOSSARY.md`](./book/GLOSSARY.md) collects every bolded term with a short definition. [`ENDNOTES.md`](./book/ENDNOTES.md) contains 168 source citations organized by chapter.
 
+## Download
+
+- [**PDF**](https://github.com/vkorost/tracing-edge-book/releases/latest/download/Tracing-The-Edge.pdf) - for offline reading and print.
+- [**EPUB**](https://github.com/vkorost/tracing-edge-book/releases/latest/download/Tracing-The-Edge.epub) - for e-readers.
+
+Both are attached to the [latest release](https://github.com/vkorost/tracing-edge-book/releases/latest) and always point at the current revision. The book is corrected in place rather than re-versioned, so these links never go stale.
+
 ## What's in this repo
 
 - `README.md`: this file.
-- [`book/Tracing-The-Edge.pdf`](./book/Tracing-The-Edge.pdf): PDF for offline reading and print.
-- [`book/Tracing-The-Edge.epub`](./book/Tracing-The-Edge.epub): EPUB for e-readers.
 - [`book/chapters/`](./book/chapters/): the 14 chapters, preface, and part dividers as individual Markdown files, with superscript endnote markers.
 - [`book/GLOSSARY.md`](./book/GLOSSARY.md): 29 terms with definitions.
 - [`book/ENDNOTES.md`](./book/ENDNOTES.md): 168 source citations organized by chapter, drawn from published books, public video instruction, and peer-reviewed financial research.
@@ -129,4 +134,4 @@ This repository is published for personal reading only. See [LICENSE](./LICENSE)
 
 ---
 
-[![Tracing the Edge cover](./book/TracingTheEdgeCover.jpg)](./book/Tracing-The-Edge.pdf)
+[![Tracing the Edge cover](./book/TracingTheEdgeCover.jpg)](https://github.com/vkorost/tracing-edge-book/releases/latest/download/Tracing-The-Edge.pdf)
