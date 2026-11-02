@@ -1,3 +1,5 @@
+[![Tracing the Edge — What Trading Books Leave Out](./book/tracing-edge-book-social-800x400.jpg)](https://github.com/vkorost/tracing-edge-book/releases/latest)
+
 # Tracing the Edge
 
 **What Trading Books Leave Out**
